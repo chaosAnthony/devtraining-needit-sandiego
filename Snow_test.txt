@@ -1,1 +1,0 @@
-com.glide.communications.GlideScriptableInputStream@70283cbf
